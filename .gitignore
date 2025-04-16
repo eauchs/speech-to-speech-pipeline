@@ -1,0 +1,21 @@
+# Environnement virtuel Python
+.venv/
+venv/
+*/venv/
+*/.venv/
+
+# Fichiers cache Python
+__pycache__/
+*.pycs
+*.pyo
+*.pyd
+
+# Fichiers IDE/Editeur
+.idea/
+.vscode/
+*.DS_Store
+
+# Fichiers audio générés (si SAVE_TTS_AUDIO = True)
+*.wav
+
+models/
