@@ -102,4 +102,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 * [Faster Whisper](https://github.com/guillaumekln/faster-whisper) pour le STT efficace.
 * [MLX Audio](https://github.com/ml-explore/mlx-audio) et la communauté MLX pour le TTS Kokoro optimisé.
 * [Sounddevice](https://python-sounddevice.readthedocs.io/) pour l'accès audio multiplateforme.
-* La communauté open-source des LLMs.
+* La communauté open-source des LLMs, en particulier MLX.
